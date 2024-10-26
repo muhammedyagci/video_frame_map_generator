@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/41dbeb26-8363-44d8-9c7d-514fe04d81ca)
 
 # Visual Mapping Extraction
 
